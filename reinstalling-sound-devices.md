@@ -34,7 +34,7 @@
 
 4. Select "Delete the driver software for this device" then click "Uninstall". Note that your sound might not function after clicking this button.
 
-   ![](img/reinstalling-gpu-drivers/devmgmtdelete.png)
+   ![](img/reinstalling-sound-devices/confirm.png)
 
 5. Go to "Action", then select "Scan for hardware changes".
 
