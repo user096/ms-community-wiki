@@ -11,10 +11,9 @@
 
    ![](img/reinstalling-sound-devices/settings.png)
 
-3. If there are updates available, click "Download". Otherwise, click "Check for Updates".
+3. click into "windows update" and select check for updates
 
-   ![](img/reinstalling-gpu-drivers/checkforupdates.png)
-
+   ![](img/reinstalling-sound-devices/winupdate.png)
 4. Windows should begin looking for any drivers or updates available for your device, including graphics drivers if any are available.
 
    ![](img/reinstalling-gpu-drivers/checkingforupdates.png)
