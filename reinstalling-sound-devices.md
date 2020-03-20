@@ -22,17 +22,17 @@
 
 1. Open Device Manager by either searching for it in Start, or pressing <kbd>Win</kbd> + <kbd>R</kbd> and type <kbd>devmgmt.msc</kbd> afterwards.
 
-   ![](img/reinstalling-gpu-drivers/devmgmtsearch.png)
+   ![](img/reinstalling-sound-devices/devmgmt.png)
 
-2. Find and expand the "Display adapters" icon. You'll be presented with a list of the graphics devices in your system. There will usually be only one or two.
+2. Find and expand the "audio inputs and outputs" icon. You'll find a list of the sound devices in your system. There will usually be only one or two.
 
-   ![](img/reinstalling-gpu-drivers/devmgmtdisplayadapt.png)
+   ![](img/reinstalling-sound-devices/devmgmtspkr.png)
 
-3. Right-click the adapter you wish to reinstall the graphics drivers for and right-click it. Then, select "Uninstall device".
+3. Right-click the adapter you wish to reinstall the sound devices for and right-click it. select poperties and Driver Then, select "uninstall driver". if you have updated your driver before in a shot limit of time you can use roll back driver
 
-   ![](img/reinstalling-gpu-drivers/devmgmtuninstall.png)
+   ![](img/reinstalling-sound-devices/devmgmtuninstall.png)
 
-4. Select "Delete the driver software for this device" then click "Uninstall". Note that your screen may flicker after clicking this button.
+4. Select "Delete the driver software for this device" then click "Uninstall". Note that your sound might not function after clicking this button.
 
    ![](img/reinstalling-gpu-drivers/devmgmtdelete.png)
 
