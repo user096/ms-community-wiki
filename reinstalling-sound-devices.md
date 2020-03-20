@@ -40,21 +40,19 @@
 
    ![](img/reinstalling-gpu-drivers/devmgmtscan.png)
 
-6. Go back to Display Adapters and find the graphics device you are attempting to reinstall. Note that it may now be called "Microsoft Basic Display Adapter". Right-click it and select "Update driver".
+6. Go back to audio inputs and outputs and find the sound device you are attempting to reinstall. Right-click it and select "Update driver".
 
-   ![](img/reinstalling-gpu-drivers/devmgmtupdate.png)
+   ![](img/reinstalling-gpu-drivers/update.png)
 
-7. Windows will now begin installing the latest graphics driver it can find. Note this may take some time and your screen may flicker. Note that if you get a message claiming the latest drivers are already installed, attempt method 3.
+7. Windows will now begin installing the latest graphics driver it can find. Note this may take some time and note that you might still not able to hear. Note that if you cant install the drivers head to  method 3.
 
 ## Method 3: OEM Website
 
-> It is difficult to be precise with this method as hardware configurations and website layouts vary considerably. If you're unable to find the correct page for your drivers, searching "[device] graphics drivers" may help yield the correct results. Just make sure you're getting them from the manufacturer's website.
+> It is difficult to use with this method as there are lots of builds of the same driver and your pc might not work with all of them. If you're unable to find the correct page for your drivers, searching "realtek drivers [your os]" may help with the research. Just make sure you're getting them from the manufacturer's website.
 >
 > Generic display drivers for most common adapters can be found here:
 >
-> - Intel: https://downloadcenter.intel.com/
-> - NVIDIA: https://www.nvidia.com/Download/index.aspx
-> - AMD: https://www.amd.com/en/support
+> - realtek: https://realtek-download.com/download-hd/
 >
 > You may also want to use DDU for this if you're using an NVIDIA or Intel GPU. If that's the case, there is an excellent guide on that [here](https://www.wagnardsoft.com/content/ddu-guide-tutorial). If you're using an AMD GPU, then the Radeon installer's built-in "factory reset" (under Additional Options) function is preferred over DDU.
 
