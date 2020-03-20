@@ -14,15 +14,13 @@
 3. click into "windows update" and select check for updates
 
    ![](img/reinstalling-sound-devices/winupdate.png)
-4. Windows should begin looking for any drivers or updates available for your device, including graphics drivers if any are available.
-
-   ![](img/reinstalling-gpu-drivers/checkingforupdates.png)
+4. Windows will check any available updates. if your sound driver is available to update windows will automatically update it. ( a restart will be required)
 
 ## Method 2: Device Manager
 
 > This method may not work effectively on older versions of Windows, if this is the case then use method 3.
 
-1. Open Device Manager by either searching for it in Start, or pressing <kbd>Win</kbd> + <kbd>X</kbd> and tapping <kbd>M</kbd> afterwards.
+1. Open Device Manager by either searching for it in Start, or pressing <kbd>Win</kbd> + <kbd>R</kbd> and type <kbd>devmgmt.msc</kbd> afterwards.
 
    ![](img/reinstalling-gpu-drivers/devmgmtsearch.png)
 
