@@ -54,12 +54,5 @@
 >
 > - realtek: https://realtek-download.com/download-hd/
 >
-> You may also want to use DDU for this if you're using an NVIDIA or Intel GPU. If that's the case, there is an excellent guide on that [here](https://www.wagnardsoft.com/content/ddu-guide-tutorial). If you're using an AMD GPU, then the Radeon installer's built-in "factory reset" (under Additional Options) function is preferred over DDU.
-
-1. Open your web browser and navigate to the website of your device or graphics adapter's manufacturer. For example, if this is a Dell laptop then go to Dell's website, however if it's a custom-built desktop with an NVIDIA graphics card, then head to NVIDIA's website etc.
-
-2. Locate the option for downloading drivers for your product. If it is a pre-built computer such as a laptop you may need to model or serial number to find the download page.
-
-3. Find the download for the graphics drivers, agree to any terms and conditions, then download the file.
-
-4. Run the downloaded executable file and follow the on-screen instructions.
+8. after you have downloaded the exe/zip file run/unzip and run the file. <b>please give administrator</b>for installation.
+Good Luck!
