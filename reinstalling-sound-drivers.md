@@ -21,6 +21,7 @@
 > sometimes intel driver and support can update drivers as windows update might not have detected the driver update. They are as follow
 https://www.intel.com.au/content/www/au/en/support/intel-driver-support-assistant.html
 This assiastant will scan your PC for any intel drivers (including sound drivers if you have a intel one) and you can use this tool to download the update pack and install.
+![](img/reinstalling-sound-devices/opera_99m3DWZ9cZ.png)
 
 ## Method 3: Device Manager
 
