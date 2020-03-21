@@ -1,4 +1,4 @@
-# Reinstalling sound devices Drivers
+# Reinstalling sound Drivers
 
 ## Method 1: Windows Update
 
@@ -15,8 +15,14 @@
 
    ![](img/reinstalling-sound-devices/winupdate.png)
 4. Windows will check any available updates. if your sound driver is available to update windows will automatically update it. ( a restart will be required)
+~~follow the installing gpu guide~~
 
-## Method 2: Device Manager
+## Method 2: intel driver and support assistant
+> sometimes intel driver and support can update drivers as windows update might not have detected the driver update. They are as follow
+https://www.intel.com.au/content/www/au/en/support/intel-driver-support-assistant.html
+This assiastant will scan your PC for any intel drivers (including sound drivers if you have a intel one) and you can use this tool to download the update pack and install.
+
+## Method 3: Device Manager
 
 > This method may not work effectively on older versions of Windows, if this is the case then use method 3.
 
@@ -46,7 +52,7 @@
 
 7. Windows will now begin installing the latest graphics driver it can find. Note this may take some time and note that you might still not able to hear. Note that if you cant install the drivers head to  method 3.
 
-## Method 3: OEM Website
+## Method 4: OEM Website
 
 > It is difficult to use with this method as there are lots of builds of the same driver and your pc might not work with all of them. If you're unable to find the correct page for your drivers, searching "realtek drivers [your os]" may help with the research. Just make sure you're getting them from the manufacturer's website.
 >
