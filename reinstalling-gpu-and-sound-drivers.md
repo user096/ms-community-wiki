@@ -76,7 +76,7 @@ for graphics drivers:
 > - Intel: https://downloadcenter.intel.com/
 > - NVIDIA: https://www.nvidia.com/Download/index.aspx
 > - AMD: https://www.amd.com/en/support
-> sound drivers should be ususally realtek:
+> - sound drivers should be ususally realtek:
 > - https://realtek-download.com/download-hd/
 
 > You may also want to use DDU for this if you're using an NVIDIA or Intel GPU. If that's the case, there is an excellent guide on that [here](https://www.wagnardsoft.com/content/ddu-guide-tutorial). If you're using an AMD GPU, then the Radeon installer's built-in "factory reset" (under Additional Options) function is preferred over DDU.
