@@ -37,7 +37,7 @@ Else, if there is you will see a bar saying update now. select that and go throu
 > This method may not work effectively on older versions of Windows, if this is the case then use method 3.
 for graphics drivers:
 
-1. Open Device Manager by either searching for it in Start, or pressing <kbd>Win</kbd> + <kbd>R</kbd> and typing <kbd>devmgmt.msc</kbd> afterwards.(alternatively you can use <kbd>Win</kbd> + <kbd>X</kbd> and tapping <kbd>M</kbd> afterwards.)
+1. Open Device Manager by either searching for it in Start, or pressing <kbd>Win</kbd> + <kbd>X</kbd> and tapping <kbd>M</kbd> afterwards.(alternatively you can use <kbd>Win</kbd> + <kbd>R</kbd> and typing <kbd>devmgmt.msc</kbd>)
 
    ![](img/reinstalling-sound-devices/devmgmt.png)
 
