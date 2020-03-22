@@ -20,19 +20,7 @@
 
    ![](img/reinstalling-gpu-drivers/checkingforupdates.png)
    
-   ## Method 2: Intel Driver & Support assistant
-> Method 1 wont find any results?? but you sure theres a driver for it? try intel and support!
-<b>THIS METHOD IS FOR INTEL DRIVERS ONLY! IF YOU USING ANY OTHERS DRIVRES (AMD, NVIDIA ETC...) GO TO METHOD3!
-
-1.Go to https://www.intel.com.au/content/www/au/en/support/intel-driver-support-assistant.html and download the intel and support software
-back to the link again and your page should be started scanning. if it doesnt click "F5"
-![](img/reinstalling-sound-devices/intel-support.png)
-and your graphics drivers / sound drivers should be detected in the list.
-![](img/reinstalling-sound-devices/intel-support-list.png)
-if theres no update you should be seeing a green bar:
-![](img/reinstalling-sound-devices/intel-no-update.png)
-Else, if there is you will see a bar saying update now. select that and go through the installer.
-## Method 3: Device Manager
+## Method 2: Device Manager
 
 > This method may not work effectively on older versions of Windows, if this is the case then use method 3.
 for graphics drivers:
@@ -56,7 +44,7 @@ for graphics drivers:
 
    ![](img/reinstalling-gpu-drivers/devmgmtscan.png)
 
-6. Go back to Display Adapters/ sound adaptors and find the graphics device you are attempting to reinstall. Note that it may now be called "Microsoft Basic Display Adapter". Right-click it and select "Update driver".
+6. Go back to Display Adapters/ sound adaptors and find the device you are attempting to reinstall. Note that the graphics driver will be called "Microsoft Basic Display Adapter".  Right-click it and select "Update driver".
 
    ![](img/reinstalling-gpu-drivers/devmgmtupdate.png)
 
