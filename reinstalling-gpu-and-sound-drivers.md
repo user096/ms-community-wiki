@@ -37,24 +37,19 @@ Else, if there is you will see a bar saying update now. select that and go throu
 > This method may not work effectively on older versions of Windows, if this is the case then use method 3.
 for graphics drivers:
 
-1. Open Device Manager by either searching for it in Start, or pressing <kbd>Win</kbd> + <kbd>R</kbd> and typing <kbd>devmgmt.msc</kbd> afterwards.
+1. Open Device Manager by either searching for it in Start, or pressing <kbd>Win</kbd> + <kbd>R</kbd> and typing <kbd>devmgmt.msc</kbd> afterwards.(alternatively you can use <kbd>Win</kbd> + <kbd>X</kbd> and tapping <kbd>M</kbd> afterwards.)
 
    ![](img/reinstalling-sound-devices/devmgmt.png)
 
-2. Find and expand the "Display adapters" icon. You'll be presented with a list of the graphics devices in your system. There will usually be only one or two.
+2. Find and expand the "Display adapters" or "Sound, video and game controllers" icon. You'll be presented with a list of the graphics devices in your system. There will usually be only one or two.
 
    ![](img/reinstalling-gpu-drivers/devmgmtdisplayadapt.png)
-   
-   2.1 This method applies to the sound drivers as well. but instead of "display adaptors we uses "audio inputs and outputs" instead:
-   ![](img/reinstalling-sound-devices/devmgmtspkr.png)
 
-
-3. Right-click the adapter you wish to reinstall the graphics/sound drivers for and right-click it. Then, select "Uninstall device".
+3. 3. Right-click the adapter you wish to reinstall the drivers for and right-click it. Then, select "Uninstall device".
 
    ![](img/reinstalling-gpu-drivers/devmgmtuninstall.png)
 
-4. Select "Delete the driver software for this device" then click "Uninstall". Note that your screen may flicker after clicking this button. For sound drivers your speaker button will turn into a red cross noticing there arent any drivers installed.
-
+4. Select "Delete the driver software for this device" then click "Uninstall". Note that your screen may flicker after clicking this button. For sound drivers your sound might cut for several times.
    ![](img/reinstalling-gpu-drivers/devmgmtdelete.png)
 
 5. Go to "Action", then select "Scan for hardware changes".
@@ -65,7 +60,7 @@ for graphics drivers:
 
    ![](img/reinstalling-gpu-drivers/devmgmtupdate.png)
 
-7. Windows will now begin installing the latest graphics driver it can find. Note this may take some time. if you get a message claiming the latest drivers are already installed, attempt method 3.
+7. Windows will now begin installing the latest graphics driver it can find. Note this may take some time and your screen may flicker. Note that if you get a message claiming the latest drivers are already installed, attempt method 3.
 
 ## Method 3: OEM Website
 
@@ -85,6 +80,6 @@ for graphics drivers:
 
 2. Locate the option for downloading drivers for your product. If it is a pre-built computer such as a laptop you may need to model or serial number to find the download page.
 
-3. Find the download for the graphics drivers (or sound drivers), agree to any terms and conditions, then download the file.
+3. Find the download for the drivers, agree to any terms and conditions, then download the file.
 
 4. Run the downloaded executable file and follow the on-screen instructions.
