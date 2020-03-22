@@ -38,6 +38,7 @@ for graphics drivers:
    ![](img/reinstalling-gpu-drivers/devmgmtuninstall.png)
 
 4. Select "Delete the driver software for this device" then click "Uninstall". Note that your screen may flicker after clicking this button. For sound drivers your sound might cut for several times.
+
    ![](img/reinstalling-gpu-drivers/devmgmtdelete.png)
 
 5. Go to "Action", then select "Scan for hardware changes".
